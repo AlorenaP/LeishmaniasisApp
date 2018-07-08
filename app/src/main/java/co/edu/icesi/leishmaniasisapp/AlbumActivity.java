@@ -118,8 +118,6 @@ public class AlbumActivity extends AppCompatActivity {
 }
 
 
-//class implements BaseAdapter
-
 class SingleAlbumAdapter extends BaseAdapter {
     private Activity activity;
     private ArrayList<HashMap< String, String >> data;
